@@ -11,6 +11,7 @@ namespace BTTH1
         static void Main(string[] args)
         {
             int m, y;
+            Console.WriteLine("Nhap Vao ten cua ban : ");
             Console.WriteLine("Nhap Vao Thang: ");
             m = int.Parse(Console.ReadLine());
             Console.WriteLine("Nhap Vao Nam: ");
