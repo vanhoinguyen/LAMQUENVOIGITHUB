@@ -1,0 +1,9 @@
+C:\Users\Tee Max\AppData\Local\Temporary Projects\BTTH1\bin\Debug\BTTH1.exe.config
+C:\Users\Tee Max\AppData\Local\Temporary Projects\BTTH1\obj\Debug\BTTH1.csprojResolveAssemblyReference.cache
+C:\Users\Tee Max\AppData\Local\Temporary Projects\BTTH1\bin\Debug\BTTH1.exe
+C:\Users\Tee Max\AppData\Local\Temporary Projects\BTTH1\bin\Debug\BTTH1.pdb
+C:\Users\Tee Max\AppData\Local\Temporary Projects\BTTH1\obj\Debug\BTTH1.exe
+C:\Users\Tee Max\AppData\Local\Temporary Projects\BTTH1\obj\Debug\BTTH1.pdb
+C:\Users\Tee Max\Documents\Visual Studio 2015\Projects\BTTH1\BTTH1\bin\Debug\BTTH1.exe.config
+C:\Users\Tee Max\Documents\Visual Studio 2015\Projects\BTTH1\BTTH1\obj\Debug\BTTH1.exe
+C:\Users\Tee Max\Documents\Visual Studio 2015\Projects\BTTH1\BTTH1\obj\Debug\BTTH1.pdb
